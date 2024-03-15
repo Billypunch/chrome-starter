@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=/
+betters.chromestarter.chrome.test.TestChromeConfig
+betters.chromestarter.chrome.prod.ChromeConfig
